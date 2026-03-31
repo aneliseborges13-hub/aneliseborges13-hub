@@ -1,5 +1,6 @@
-## Hi there 👋
+##Olá, sou Anelise👋
 
+> Dev Back-end em formação pela FATEC Jales. Minha base sólida em lógica e arquitetura de dados me permite construir soluções eficientes, escaláveis e com foco total em qualidade de código.
 <!--
 **aneliseborges13-hub/aneliseborges13-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
