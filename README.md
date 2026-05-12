@@ -1,7 +1,6 @@
 # Olá, sou Anelise👋
 
-> ⚡ Construindo conhecimento em desenvolvimento e redes
-> 🐧 Linux • ☕ Java • 🔧 Git • 🤖 IA
+> ⚡ Construindo conhecimento em desenvolvimento e redes | 🐧 Linux • ☕ Java • 🔧 Git • 🤖 IA
 
 ### 🚀 Tecnologias que uso
 
