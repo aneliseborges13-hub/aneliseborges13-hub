@@ -1,6 +1,7 @@
 # Olá, sou Anelise👋
 
-> 🌐 Interessado em programação, redes e ferramentas de IA
+> ⚡ Construindo conhecimento em desenvolvimento e redes
+> 🐧 Linux • ☕ Java • 🔧 Git • 🤖 IA
 
 ### 🚀 Tecnologias que uso
 
